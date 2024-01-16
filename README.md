@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Mehran
 - 👀 I’m interested in front-end dev
 - 🌱 I’m currently learning React
-- 💞️ I’m looking to collaborate on 
+- 💞️ I’m looking to collaborate on my new idea and i need a back-end dev so ...
 - 📫 Email me{ mehranpouriyan@gmail.com } or telegram ID : { @Mehranpouriyan }
 
 <!---
